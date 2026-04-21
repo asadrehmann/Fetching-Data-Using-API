@@ -134,8 +134,8 @@ At the end of this project, we successfully:
 
 This project was completed as a group effort:
 
-* One member handled API integration and data fetching
-* Two members focused on data preprocessing and cleaning
+*  Members handled API integration and data fetching
+*  Members focused on data preprocessing and cleaning
 * The team collaboratively ensured code quality and structure
 
 ---
